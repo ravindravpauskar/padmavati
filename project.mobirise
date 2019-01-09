@@ -98,7 +98,7 @@
             "fontColor": "#989898",
             "fontHoverColor": "#fff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">CONTACT US<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-5\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content14-4\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-d\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">CONTACT US<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -141,7 +141,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "WE FARM CHICKENS ETHICALLY AND PROFITABLY-&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">learn more</a><a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">gET A QUOTE now</a>",
+                "buttons": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">learn more</a><a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">gET A QUOTE now</a>",
                 "alt": ""
               },
               {
@@ -157,7 +157,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "We make it a priority to offer flexible service \n<br>accommodate your needs &nbsp;",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE NOW</a>",
+                "buttons": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">learn more</a><a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE NOW</a>",
                 "alt": ""
               }
             ]
@@ -227,7 +227,7 @@
           "text1": "",
           "text2": "",
           "text3": "",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">See more</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">See more</a>",
           "_tags": [
             "Theme"
           ],
@@ -385,7 +385,7 @@
           },
           "title": "Know more.....!!",
           "text": "“All education is about making people curious.\"",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">see more</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#gallery1-6\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">see more</a>",
           "_tags": [
             "Theme"
           ],
@@ -779,7 +779,7 @@
           },
           "title": "Our Recent news",
           "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
           "mediahover": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/plus.png",
@@ -813,9 +813,9 @@
               "active": true
             }
           },
-          "title1": "<a href=\"http://mobirise.com\">new ection reading</a>",
-          "title2": "<a href=\"http://mobirise.com\">new ection reading</a>",
-          "title3": "<a href=\"http://mobirise.com\">new ection reading</a>",
+          "title1": "<a href=\"index.html\">new ection reading</a>",
+          "title2": "<a href=\"index.html\">new ection reading</a>",
+          "title3": "<a href=\"index.html\">new ection reading</a>",
           "text1": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
           "text2": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
           "text3": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
@@ -863,7 +863,7 @@
               "active": true
             }
           },
-          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "textNews1": "<a href=\"index.html\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
           "mediaNews2": {
             "image": {
               "class": "resp-img",
@@ -871,12 +871,12 @@
               "active": true
             }
           },
-          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "textNews2": "<a href=\"index.html\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
           "titleTweet": "lastest Links",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a><b><a href=\"index.html\">Alexander Sturg:</a></b><a href=\"index.html\"> Curabitur augue elit, egestas vitae erat sed, in the <i>maximus </i>sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a><b><a href=\"index.html\">Alexander Sturg:</a></b><a href=\"index.html\"> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b></b></a><b><a href=\"index.html\">Alexander Sturg:</a></b><a href=\"index.html\"> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
           "titleInst": "photos",
           "mediaInst1": {
             "image": {
