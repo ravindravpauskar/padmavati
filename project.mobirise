@@ -1,0 +1,932 @@
+{
+  "settings": {
+    "name": "Site-12-27_1535",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "clarus",
+      "title": "Clarus",
+      "styling": {
+        "primaryColor": "#0dba26",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": false
+      },
+      "additionalSetColors": [
+        "#222222"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 17,
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#989898"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#989898"
+            },
+            ".link, .dropdown-item": {
+              "color": "#989898"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#080808"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1a1a1a!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#222"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#989898",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#fff"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#222",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#989898",
+            "fontHoverColor": "#fff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">SHOP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.google.com\">CONTACT US<br></a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pad-189x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "icons": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "contacts": "<a data-app-btn=\"true\" href=\"tel:+123 (456) 7890 123\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-phone mbr-iconfont mbr-iconfont-btn\"></span>+91 8095092016</a><a data-app-btn=\"true\" href=\"mailto:sample@sample.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><span class=\"fa fa-envelope-o mbr-iconfont mbr-iconfont-btn\"></span>padmavatifs4@gmail.com</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu2",
+          "_anchor": "menu2-1"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "innerImage": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "PADMAVATI<span style=\"font-weight: normal;\">Feeds &amp; Hatcheries Pvt Ltd</span>",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "WE FARM CHICKENS ETHICALLY AND PROFITABLY-&nbsp;<br>",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">learn more</a><a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">gET A QUOTE now</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-f81c-tabs-bg-1-1-1006x379-800x301.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "innerImage": "@PROJECT_PATH@/assets/images/mbr-1920x1196.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "PADMAVATI<br><span style=\"font-weight: normal;\">Feeds &amp; Hatcheries</span>",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "We make it a priority to offer flexible service \n<br>accommodate your needs &nbsp;",
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE NOW</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_styles": {
+            "SPAN": {
+              "color": "#cccccc",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "H1": {
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "color": "#333333"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showMedia": true,
+            "inverse": true,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/themes.webdevia.com-2977-1-400x228.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=1-Pyn5kRh-0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Take a tour",
+          "text": "The padmavati feeds and hatcheries was organized in 1957 as a civic and educational non-profit corporation. This &nbsp;exists for the purpose of fostering, promoting and encouraging the improvement of production and marketing of all types of poultry, poultry products, eggs and egg products in India. This &nbsp;coordinates all promotional activities of eggs and egg products.",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">See more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-b",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showImages": false,
+            "columns": "6",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "sun",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "strategy",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "trophy",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "lightbulb",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title": "Our work - it is your stability",
+          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "title1": "",
+          "title2": "<div></div>",
+          "title3": "",
+          "title4": "Dynamic Ecology\n<div><br></div>",
+          "title5": "Organic Ecosystem\n<div><br></div>",
+          "title6": "Save Tropic Forests\r<div><br></div>",
+          "text1": "<b>BROILERS</b><br>broiler (Gallus gallus domesticus) is any chicken that is bred and raised specifically for meat production.[1] Many typical broilers have white feathers and yellowish skin. Most commercial broilers reach slaughter-weight between four[2] and seven weeks of age, although slower growing breeds reach slaughter-weight at approximately 14 weeks of age. Management of ventilation, housing, stocking density and in-house procedures must be evaluated regularly to support good welfare of the flock. The breeding stock (broiler-breeders) do grow to maturity but also have their own welfare concerns related to the frustration of a high feeding motivation and beak trimming. Broilers are usually grown as mixed-sex flocks in large sheds under intensive conditions.",
+          "text2": "<b>LAYERS</b><b><br></b>Layer chickens are such a special species of hens, which need to be raised from when they are one day old. They start laying eggs commercially from 18-19 weeks of age. They remain laying eggs continuously till their 72-78 weeks of age. They can produce about one kg of eggs by consuming about 2.25 kg of food during their egg laying period. For the purpose of producing hybrid eggs layer, consider the various characteristics  of cock and hen before breeding. There are various types of highly egg productive layer breeds available throughout the world.",
+          "text3": "<b>EGGS&nbsp;</b><b><br></b>Poultry layer farming is gaining popularity in India due to it’s lower production cost and growing demand of eggs. since they have both are high source of proteins, vitamins and other minerals necessary for a balanced human diet. Layer poultry is rearing of birds commercially for egg laying purposes. But, there has been a tremendous progress made in the egg industry in the past few decades. Owing to competent professional and technical expertise, sophisticated equipment, better medicines and high quality chicks, the Indian poultry layer farming industry has made tremendous progress<br>.<br>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content14",
+          "_anchor": "content14-4",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/themes.webdevia.com-916a-bg-1-2-2000x761.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "Know more.....!!",
+          "text": "“All education is about making people curious.\"",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">see more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "filter": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#FFFFFF",
+            "images": [
+              {
+                "tags": "Hatchery",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Finance",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-2977-1-400x228.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-2977-1-400x228-400x228.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Hatchery",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-c410-2402119089-675x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-c410-2402119089-675x450-675x450.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-0a87-3-400x228.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-0a87-3-400x228-400x228.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-6b40-1476876835-674x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-6b40-1476876835-674x450-674x450.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "Our portfolio",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur strong pellentesque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6"
+        },
+        {
+          "_params": {
+            "showHover": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showImages": true,
+            "columns": 4,
+            "inverse": true,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/team.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=l58yv91tnnA",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Our team of hardworkers",
+          "text": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Curabitur feugiat feugiat and brane in bibendum",
+          "title1": "Balappa s/o Mallappa Lakkannavar",
+          "text1": "B.Sc (Managing Director)<br><b>+91 8095092016</b><br>",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/themes.webdevia.com-7aa0-team-4-90x90.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "icons1": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "title2": "Chandrasekhar s/o Satyappa Somannavar&nbsp;",
+          "text2": "Qualification: B.A ( Chairman &amp; CEO )<br><b>+91 9739593864</b><br>",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/themes.webdevia.com-aa5c-team-11-90x90.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "icons2": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "title3": "Pundalik s/o Siddappa Gatti&nbsp;",
+          "text3": "Director<br><b>+91 9845905048</b> ",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/themes.webdevia.com-c74e-team-9-90x90.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "icons3": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "title4": "Hanamantappa s/o Sakrappa Jogin&nbsp;",
+          "text4": "Director<br><b>+91 9900672731</b><br> ",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/themes.webdevia.com-f37c-team-8-90x90.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "icons4": "<a data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-twitter\"></i></a> <a data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-facebook\"></i></a> <a data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-googleplus\"></i></a> <a data-app-btn=\"true\" title=\"Youtube\" target=\"_blank\" href=\"http://www.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" class=\"\"><i class=\"icon-dribbble\"></i></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_styles": {
+            "H1": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#cccccc"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "filter": true,
+            "paddingTop": 1,
+            "paddingBottom": 0,
+            "bgColor": "#FFFFFF",
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-cf06-1254840289-600x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-cf06-1254840289-600x450-479x360.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-eb8a-1327058494-675x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-eb8a-1327058494-675x450-539x360.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-6b40-1476876835-674x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-6b40-1476876835-674x450-674x450.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-35c1-shutterstock-137016332-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-35c1-shutterstock-137016332-1-1920x1280-800x533.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-ab70-eggs-650x350.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-ab70-eggs-650x350-490x350.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/themes.webdevia.com-33e3-2-400x518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/themes.webdevia.com-33e3-2-400x518-400x308.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1283.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1283-800x535.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1374.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1374-800x572.jpg",
+                "title": "Type title here",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "title": "Our portfolio",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur strong pellentesque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_anchor": "gallery3-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showImages": true,
+            "showHover": false,
+            "columns": 3,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Our Recent news",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellente sque non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://www.google.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
+          "mediahover": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/plus.png",
+              "active": true
+            }
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/mbr-640x418.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-2.jpg",
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@PROJECT_PATH@/assets/images/news-item-3.jpg",
+              "active": true
+            }
+          },
+          "title1": "<a href=\"http://mobirise.com\">new ection reading</a>",
+          "title2": "<a href=\"http://mobirise.com\">new ection reading</a>",
+          "title3": "<a href=\"http://mobirise.com\">new ection reading</a>",
+          "text1": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
+          "text2": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
+          "text3": "Duis commodo risus et magna suscipit aliquam. Curabitur gravida efficitur purus. Pellentesque finibus neque sit amet justo volutpat porttitor",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content9",
+          "_anchor": "content9-9"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "showMedia": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1.jpg",
+            "bgColorRadio": true,
+            "bgColor": "#212121",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pad-2808x1904.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "adress": "<b>Padmavati feeds &amp; hatcheries Pvt Ltd.<br>Head Office</b>: Hulikatti Building, Building no : 3291/12A, Yadravi road, Saundati. Dist : Belagavi<br>",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +91&nbsp;8095092016</a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b>&nbsp;padmavatifs4@gmail.com</a>",
+          "titleNews": "our news",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/foot-news-1.jpg",
+              "active": true
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@PROJECT_PATH@/assets/images/foot-news-2.jpg",
+              "active": true
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "lastest Links",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "titleInst": "photos",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
+            }
+          },
+          "copyright": "2016 All rights reserved. Development by PlainCypher",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-f",
+          "_styles": {
+            "B": {
+              "font-size": "12px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
